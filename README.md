@@ -23,5 +23,5 @@
   <a href = "mailto:moniqueelen@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/niqelen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/moniquelen/moniquelen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/moniquelen/moniquelen/blob/output/github-contribution-grid-snake.svg)
 </div>
