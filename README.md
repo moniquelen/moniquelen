@@ -4,7 +4,7 @@
 
 📚| Atualmente sou estudante de Sistemas de Informação na UFF e estou no 3º período;
 
-👩‍💻| Nos últimos tempos tenho aprimorado meus estudos em:
+👩‍💻| Nos últimos tempos venho aprimorando meus estudos em:
 
 <div>
   <img align="center" alt="moniq-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
