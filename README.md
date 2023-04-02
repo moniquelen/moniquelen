@@ -1,4 +1,4 @@
-## Olá, Seja bem vindo(a)! Eu sou a Monique Elen. 😊
+## Olá, seja bem vindo(a)! Eu sou a Monique Elen. 😊
 
 ✨| Tenho 20 anos e sou do estado do Rio de Janeiro;
 
