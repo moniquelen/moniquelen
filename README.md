@@ -10,7 +10,6 @@
   <a href = "mailto:moniqueelen@id.uff.br"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117" target="_blank"></a>
 </p>
 
-##
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=moniquelen&theme=gotham&type=waving&color=9400D3)
 
@@ -32,7 +31,7 @@
 
 ### • Outros Conhecimentos:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 ### • Estudando atualmente:
