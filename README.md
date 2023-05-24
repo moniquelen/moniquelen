@@ -11,7 +11,11 @@
 </p>
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=moniquelen&theme=gotham&type=waving&color=9400D3)
+<p align="center">
+<a href="https://github.com/moniquelen/github-readme-activity-graph#react-dark">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=moniquelen&theme=gotham&area=true&hide_border=true&color=9400D3" width="100%">
+</a>
+</p>
 
 
 ### • Habilidades principais:
